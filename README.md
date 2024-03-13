@@ -1,4 +1,4 @@
-Diabetes Prediction System using Machine Learning and AWS Deployment<br>
+<h1>Diabetes Prediction System using Machine Learning and AWS Deployment</h1><br>
 This project aims to develop a diabetes prediction system utilizing machine learning techniques and deploying it on Amazon Web Services (AWS). The system predicts the likelihood of an individual having diabetes based on certain input features such as medical history, lifestyle, and demographic information.
 
 Table of Contents
